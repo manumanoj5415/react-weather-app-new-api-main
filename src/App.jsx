@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import TopButtons from "./components/topButtons";
+import TopButtons from "./components/TopButtons";
 import Inputs from "./components/Inputs";
 import TimeAndLocation from "./components/TimeAndLocation";
 import TemperatureAndDetails from "./components/TemperatureAndDetails";
